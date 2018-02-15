@@ -91,3 +91,7 @@ h1{
   line-height: 18px;
 }
 
+footer{
+  height: 80px;
+  background-color: #555;
+}
